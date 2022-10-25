@@ -4,5 +4,5 @@ In computing, a fork bomb (also called rabbit virus or wabbit) is a denial-of-se
 
 ## Compile
 ```
-python forkBomb.py to compile
+python forkBomb.py
 ```
